@@ -32,7 +32,7 @@ Resume Score is an intelligent resume evaluation tool designed to simplify and a
 - Handles a curated database of ~2,000 professional skills
 - Blends rule-based and ML-driven entity recognition
 - Produces ranked candidate lists with compatibility scores
-- Correlates ~0.70 with expert recruiter evaluations
+- Correlates ~0.70 with human evaluations
 
 
 ## Project Components
